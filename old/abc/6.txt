@@ -1,0 +1,7 @@
+"trường có ký túc xá không",6
+"trường có hỗ trợ chỗ ở không",6
+"ký túc xá trường như thế nào",6
+"ký túc xá trường ra sao",6
+"ký túc xá giá cả ra sao",6
+"trường có hỗ trợ ký túc xá không",6
+"ký túc xá của trường có lớn không",6

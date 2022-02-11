@@ -1,0 +1,11 @@
+"Nếu năm nay xét học bạ có thể là bao nhiêu điểm",13
+"có xét tuyển học bạ không",13
+"xét học bạ cần điều khiên gì",13
+"điều kiện học bạ như thế nào thì trúng tuyển",13
+"phương thức 3 là gì",13
+"phương thức 3 như thế nào",13
+"phương thức 3 ra sao",13
+"xét điểm học bạ trung học phổ thông là sao",13
+"xét điểm học bạ là như thế nào",13
+"xét điểm học bạ là xét mấy năm",13
+"điều kiện để được xét học bạ",13

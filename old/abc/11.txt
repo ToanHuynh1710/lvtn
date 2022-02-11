@@ -1,0 +1,12 @@
+"phương thức 1 là gì",11
+"phương thức 1 ra sao",11
+"phương thức 1 như thế nào",11
+"làm sao để được ưu tiên tuyển thẳng",11
+"ưu tiên xét tuyển là sao",11
+"ưu tiên xét tuyển cần điều kiện gì",11
+"những đối tượng được ưu tiên xét tuyển",11
+"những người nào được ưu tiên xét tuyển",11
+"những ai được ưu tiên xét tuyển",11
+"đối tượng nào được ưu tiên xét tuyển",11
+"phải làm gì mới được ưu tiên xét tuyển",11
+"điều kiện để được ưu tiên xét tuyển",11

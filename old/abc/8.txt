@@ -1,0 +1,10 @@
+"nếu học xong muốn xin học bổng làm như thế nào",8
+"nếu học xong muốn xin học bổng du học làm như thế nào",8
+"có được nhận học bổng không",8
+"làm cách nào để được nhận học bổng",8
+"trường có phát học bổng không",8
+"học giỏi có được học bổng không",8
+"điều kiện nào để được nhận học bổng",8
+"nhà em nghèo quá có được nhận học bổng không",8
+"em muốn nhận học bổng thì cần điều kiện gì",8
+"em học giỏi và muốn được nhận học bổng thì phải làm sao",8

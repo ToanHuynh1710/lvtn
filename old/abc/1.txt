@@ -1,0 +1,14 @@
+"có bao nhiêu phương thức xét tuyển",1
+"hình thức xét tuyển",1
+"để vào được ngành này thì phải thi hay xét học bạ",1
+"có bao nhiêu hình thức xét tuyển",1
+"phương thức xét tuyển",1
+"thi đầu vào như thế nào",1
+"đăng ký thi như thế nào",1
+"làm sao để được học ngành này",1
+"làm sao để được học ngành khoa học máy tính",1
+"ngành khoa học máy tính xét tuyển như thế nào",1
+"ngành khoa học máy tính xét tuyển ra sao",1
+"ngành này tuyển sinh ra sao",1
+"ngành này tuyển sinh như thế nào",1
+"phải thi hay xét học bạ",1

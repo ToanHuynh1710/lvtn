@@ -1,0 +1,19 @@
+"ngành ra trường làm việc gì",5
+"ra trường có thể làm gì",5
+"ngành đó sau này ra trường làm gì",5
+"cơ hội việc làm hay không",5
+"sau khi tốt nghiệp có giữ lại trường làm việc không",5
+"Nếu em học xong thời gian học thì em có được học lên nữa hông",5
+"ngành này có đào tạo thạc sĩ không",5
+"học xong đại học rồi có được học tiếp không",5
+"cơ hội việc làm",5
+"ra trường rồi có được hỗ trợ việc làm không",5
+"trường có giới thiệu việc làm không",5
+"sau khi kết thúc khóa học cơ hội việc làm có dễ không",5
+"học ngành IT dễ xin việc làm không",5
+"Ra trường có dễ xin việc làm không",5
+"Khi học xong có dễ xin việc không",5
+"Sau khi hoàn thành việc học thì cơ hội tìm được việc làm có cao không",5
+"Cơ hội nghề nghiệp của sinh viên học ngành này sau khi ra trường là bao nhiêu",5
+"cơ hội tìm việc làm",5
+"học xong trường có giới thiệu việc làm không",5

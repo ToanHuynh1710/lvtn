@@ -1,0 +1,10 @@
+"ngành ứng dụng được những lĩnh vực nào",3
+"đã có những ứng dụng kỹ thuật nào nổi trội",3
+"học xong có thể có những kỹ năng nào",3
+"Ngành đó đào tạo về những kĩ năng gì",3
+"ngành đào tạo những gì",3
+"Ngành khoa học máy tính là gì",3
+"khoa học máy tính được chia làm mấy mảng",3
+"Ngành này học về cái gì",3
+"Ngành này học về nội dung gì",3
+"Ngành này học những gì",3

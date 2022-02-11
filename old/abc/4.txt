@@ -1,0 +1,21 @@
+"học phí",4
+"chi phí học là bao nhiêu",4
+"Tiền học",4
+"Học phí của ngành là bao nhiêu",4
+"Học phí ra sao",4
+"chương trình đào tạo bao nhiêu năm",4
+"Học mấy năm",4
+"Nếu học đại học thì khoảng mấy năm",4
+"Học bao nhiêu học kỳ",4
+"khi học thì sẽ được học những gì",4
+"Khi học học những gì",4
+"Chương trình có bao nhiêu phần cần tìm hiểu",4
+"Có những chuyên ngành nào",4
+"Chi phí đào tạo như thế nào",4
+"Phương thức học ra sao",4
+"Học khoảng thời gian bao lâu",4
+"Học bao nhiêu học kỳ",4
+"Học về chuyên môn nào",4
+"Thời gian cần để hoàn thành được việc đào tạo",4
+"chương trình đào tạo",4
+"năm có bao nhiêu học kỳ",4

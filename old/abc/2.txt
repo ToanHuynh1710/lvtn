@@ -1,0 +1,17 @@
+"điểm chuẩn là bao nhiêu",2
+"ngành này tầm bao nhiêu điểm",2
+"điểm chuẩn của ngành là bao nhiêu",2
+"bao nhiêu điểm để đậu vào ngành này ở trường",2
+"tỉ lệ chọi",2
+"tỷ lệ cạnh tranh vào trường cao hay thấp",2
+"Chỉ tiêu ngành thế nào",2
+"tỷ lệ chọi là bao nhiêu",2
+"điểm sàn",2
+"Ngành này yêu cầu điểm sàn và điểm chuẩn cao không",2
+"điểm sàn để vào được ngành này là bao nhiêu",2
+"điểm trung bình bao nhiêu là đậu",2
+"cần thi những khối nào",2
+"Gồm những khối thi nào",2
+"điểm đầu vào năm trước là bao nhiêu",2
+"chỉ tiêu năm trước là bao nhiêu",2
+"Điểm đầu vào có cao không",2

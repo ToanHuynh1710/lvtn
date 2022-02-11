@@ -1,0 +1,10 @@
+"phương thức 2 là gì",12
+"phương thức 2 như thế nào",12
+"phương thức 2 ra sao",12
+"xét điểm kỳ thi tốt nghiệp như thế nào",12
+"xét điểm thi tốt nghiệp rồi có cần thi đại học nữa không",12
+"xét điểm thi tốt nghiệp là sao",12
+"xét điểm thi tốt nghiệp trung học phổ thông là sao",12
+"điều kiện để xét điểm tốt nghiệp",12
+"điều kiện để được xét điểm tốt nghiệp",12
+"Mình xét điểm 12 được không",12
