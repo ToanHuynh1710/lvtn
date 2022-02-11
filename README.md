@@ -1,2 +1,2 @@
-Lu?n van t?t nghi?p
-Tr? l� s? tu v?n tuy?n sinh ng�nh Khoa H?c M�y T�nh
+Luận văn tốt nghiệp
+Trợ lý số tư vấn tuyển sinh ngành Khoa Học Máy Tính
